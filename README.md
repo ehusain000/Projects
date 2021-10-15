@@ -1,5 +1,5 @@
 # Projects
 
-A collection of projects I have worked on so far...
+**A collection of projects I have worked on so far... **
 
-<bold> contents of this repo. always updates </bold>
+*contents of this repo. always updates *
