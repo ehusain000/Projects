@@ -1,6 +1,7 @@
 ;some common tools
 (define (sq x)
   (* x x))
+(sq 125)
 
 (define l1 '(1 2 3 4))
 
